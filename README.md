@@ -8,7 +8,7 @@ Market size analysis is a crucial aspect of market research that determines the 
   Clearly outline the boundaries of the EV market you’re analyzing.
 
 **2. Data Collection and Preparation:**
-Gather relevant data from industry associations, market research firms (e.g., BloombergNEF, IEA), and government publications.
+Gather relevant data from industry associations, market research firms and government publications.
 Clean and preprocess the data to ensure its quality and consistency.
 
 **3. Analyze Historical Trends:**
